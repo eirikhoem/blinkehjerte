@@ -1,5 +1,2 @@
-basic.show_icon(IconNames.HEART)
-
-def on_forever():
-    pass
-basic.forever(on_forever)
+basic.pause(100)
+basic.show_icon(IconNames.ROLLERSKATE)
